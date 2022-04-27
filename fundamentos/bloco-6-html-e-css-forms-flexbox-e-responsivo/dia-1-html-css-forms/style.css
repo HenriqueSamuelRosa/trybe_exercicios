@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+form{
+   width: 450px;
+}
+div{
+    margin: 20px;
+}
+
+#name{
+    width: 400px;
+    border: 1px solid grey;
+    border-radius: 5px;
+    padding: 5px;
+}
+#email{
+    width: 400px;
+    border: 1px solid grey;
+    border-radius: 5px;
+    padding: 5px;
+}
+fieldset{
+    width: 395px;
+    border-radius: 5px;
+    padding: 7px;
+}
+.inputs {
+    margin-bottom: 10px;
+}
+#motivo{
+    width: 411px;
+}
+.options{
+    width: 550px;
+}
+#data{
+    width: 150px;
+}
+.opcoes{
+}
+button{
+    background-color: rgb(52, 136, 56);
+    color: white;
+    font-size: large;
+    font-weight: 800;
+    padding: 7px;
+    width: 80px;
+    border-radius: 10px;
+}
+#btn{
+    margin: 15px;
+}
