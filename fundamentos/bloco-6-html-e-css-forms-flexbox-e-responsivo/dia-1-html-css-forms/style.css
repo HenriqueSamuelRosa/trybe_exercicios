@@ -1,4 +1,4 @@
-* {
+/* * {
     margin: 0;
     padding: 0;
 }
@@ -52,4 +52,11 @@ button{
 }
 #btn{
     margin: 15px;
+}
+#btnClear {
+    background-color: rgb(166, 29, 29);
+} */
+
+{
+    background-color: red;
 }
