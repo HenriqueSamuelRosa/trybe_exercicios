@@ -1,0 +1,32 @@
+html {
+    box-sizing: border-box;
+  }
+  
+  *, *:before, *:after {
+    box-sizing: inherit;
+  }
+
+  body{
+      background-color: antiquewhite;
+  }
+  
+  header p{
+      text-align: center;
+      font-weight: 900;
+      font-size: larger;
+  }
+  
+header nav{
+    border: 2px solid blue;
+    display: flex;
+    justify-content: center;
+}
+
+  header nav ul {
+    border: 1px solid black;
+    width: 90%;
+    list-style: none;
+    display: flex;
+    justify-content:left;
+  }
+ 
